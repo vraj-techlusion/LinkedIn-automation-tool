@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pymongo
+python-dotenv
+pydantic
+requests
+
+# Install the requirements
+# pip install -r requirements.txt
